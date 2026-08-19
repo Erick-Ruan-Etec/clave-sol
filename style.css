@@ -24,14 +24,14 @@ body {
 
 .linha div {
     width: 90vw;
-    max-width: 600px;
+    max-width: 500px;
     height: 2px;
     background-color: black;
 }
 
 .espaco div {
     width: 90vw;
-    max-width: 600px;
+    max-width: 500px;
     height: 2px;
     background-color: rgb(0, 0, 255);
 }
