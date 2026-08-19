@@ -56,7 +56,7 @@ body {
     height: 10px;
     border-radius: 100%;
     outline: 3px solid black;
-    transform: translateY(-4px);
+    transform: translateY(0px);
 }
 
 #acertou {
